@@ -23,7 +23,7 @@ roomMessage = []
 
 speakers.each do |speaker|
   
-  roomMessage << "Hello #{speaker}! You'll be assigned to room #{roomNum}!"
+  roomMessage << "Hello, #{speaker}! You'll be assigned to room #{roomNum}!"
 
 roomNum += 1 
 end
