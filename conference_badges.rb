@@ -16,11 +16,9 @@ badge_messsages
 
 end
 
-
-
-
-
 def assign_rooms
+
+
 
 end
 
