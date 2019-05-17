@@ -9,6 +9,7 @@ def batch_badge_creator(speakinBouls)
 badge_plug = []
 speakinBouls.each do |speaker|
   message = badge_maker(speaker)
+  badge_messsages << 
 
 end
 
