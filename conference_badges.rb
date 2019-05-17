@@ -12,6 +12,11 @@ speakinBouls.each do |speaker|
   badge_messsages << message
 end
 
+badge_messsages
+
+end
+
+
 
 
 
