@@ -10,9 +10,9 @@ badge_plug = []
 speakinBouls.each do |speaker|
   message = badge_maker(speaker)
   badge_messsages << message
-  
-
 end
+
+
 
 
 def assign_rooms
