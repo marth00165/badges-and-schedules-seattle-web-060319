@@ -4,10 +4,10 @@ def badge_maker(whoDis)
 
 end
 
-def batch_badge_creator(speakinBouls)
+def batch_badge_creator(speakers)
 
 badge_plug = []
-speakinBouls.each do |speaker|
+speakers.each do |speaker|
   message = badge_maker(speaker)
   badge_messsages << message
 end
@@ -16,7 +16,7 @@ badge_messsages
 
 end
 
-def assign_rooms
+def assign_rooms(speakers)
 
 
 
