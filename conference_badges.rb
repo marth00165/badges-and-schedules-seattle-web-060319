@@ -9,8 +9,6 @@ def batch_badge_creator(speakinBouls)
 badge_plug = []
 
 
-
-
 end
 
 
