@@ -9,10 +9,10 @@ def batch_badge_creator(speakers)
 badge_plug = []
 speakers.each do |speaker|
   message = badge_maker(speaker)
-  badge_messsages << message
+  badge_plug << message
 end
 
-badge_messsages
+badge_plug
 
 end
 
