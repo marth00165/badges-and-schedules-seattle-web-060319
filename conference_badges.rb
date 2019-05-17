@@ -41,7 +41,7 @@ end
 
 roomMessage = assign_rooms(speakers)
 roomMessage.each do |message|
-
+  puts message
 end
 
 end
